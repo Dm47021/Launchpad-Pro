@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/dm47021/Launcher_Plus1/app/build/intermediates/res/merged/debug/xml/wallpaper_picker_preview.xml",
+        "source": "/home/dm47021/Launcher_Plus1/app/src/main/res/xml/wallpaper_picker_preview.xml"
+    },
+    {
+        "merged": "/home/dm47021/Launcher_Plus1/app/build/intermediates/res/merged/debug/xml/settings.xml",
+        "source": "/home/dm47021/Launcher_Plus1/app/src/main/res/xml/settings.xml"
+    },
+    {
+        "merged": "/home/dm47021/Launcher_Plus1/app/build/intermediates/res/merged/debug/xml/update_workspace.xml",
+        "source": "/home/dm47021/Launcher_Plus1/app/src/main/res/xml/update_workspace.xml"
+    },
+    {
+        "merged": "/home/dm47021/Launcher_Plus1/app/build/intermediates/res/merged/debug/xml/default_workspace.xml",
+        "source": "/home/dm47021/Launcher_Plus1/app/src/main/res/xml/default_workspace.xml"
+    }
+]

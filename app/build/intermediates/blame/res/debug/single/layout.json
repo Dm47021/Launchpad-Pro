@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/home/dm47021/Launcher_Plus1/app/build/intermediates/res/merged/debug/layout/scroll_indicator.xml",
+        "source": "/home/dm47021/Launcher_Plus1/app/src/main/res/layout/scroll_indicator.xml"
+    },
+    {
+        "merged": "/home/dm47021/Launcher_Plus1/app/build/intermediates/res/merged/debug/layout/tab_widget_indicator.xml",
+        "source": "/home/dm47021/Launcher_Plus1/app/src/main/res/layout/tab_widget_indicator.xml"
+    },
+    {
+        "merged": "/home/dm47021/Launcher_Plus1/app/build/intermediates/res/merged/debug/layout/workspace_screen.xml",
+        "source": "/home/dm47021/Launcher_Plus1/app/src/main/res/layout/workspace_screen.xml"
+    },
+    {
+        "merged": "/home/dm47021/Launcher_Plus1/app/build/intermediates/res/merged/debug/layout/appwidget_error.xml",
+        "source": "/home/dm47021/Launcher_Plus1/app/src/main/res/layout/appwidget_error.xml"
+    },
+    {
+        "merged": "/home/dm47021/Launcher_Plus1/app/build/intermediates/res/merged/debug/layout/qsb_bar.xml",
+        "source": "/home/dm47021/Launcher_Plus1/app/src/main/res/layout/qsb_bar.xml"
+    },
+    {
+        "merged": "/home/dm47021/Launcher_Plus1/app/build/intermediates/res/merged/debug/layout/wallpaper_chooser.xml",
+        "source": "/home/dm47021/Launcher_Plus1/app/src/main/res/layout/wallpaper_chooser.xml"
+    },
+    {
+        "merged": "/home/dm47021/Launcher_Plus1/app/build/intermediates/res/merged/debug/layout/workspace_divider.xml",
+        "source": "/home/dm47021/Launcher_Plus1/app/src/main/res/layout/workspace_divider.xml"
+    },
+    {
+        "merged": "/home/dm47021/Launcher_Plus1/app/build/intermediates/res/merged/debug/layout/add_list_item.xml",
+        "source": "/home/dm47021/Launcher_Plus1/app/src/main/res/layout/add_list_item.xml"
+    },
+    {
+        "merged": "/home/dm47021/Launcher_Plus1/app/build/intermediates/res/merged/debug/layout/apps_customize_progressbar.xml",
+        "source": "/home/dm47021/Launcher_Plus1/app/src/main/res/layout/apps_customize_progressbar.xml"
+    },
+    {
+        "merged": "/home/dm47021/Launcher_Plus1/app/build/intermediates/res/merged/debug/layout/drop_target_bar.xml",
+        "source": "/home/dm47021/Launcher_Plus1/app/src/main/res/layout/drop_target_bar.xml"
+    },
+    {
+        "merged": "/home/dm47021/Launcher_Plus1/app/build/intermediates/res/merged/debug/layout/user_folder.xml",
+        "source": "/home/dm47021/Launcher_Plus1/app/src/main/res/layout/user_folder.xml"
+    },
+    {
+        "merged": "/home/dm47021/Launcher_Plus1/app/build/intermediates/res/merged/debug/layout/rename_folder.xml",
+        "source": "/home/dm47021/Launcher_Plus1/app/src/main/res/layout/rename_folder.xml"
+    },
+    {
+        "merged": "/home/dm47021/Launcher_Plus1/app/build/intermediates/res/merged/debug/layout/wallpaper_item.xml",
+        "source": "/home/dm47021/Launcher_Plus1/app/src/main/res/layout/wallpaper_item.xml"
+    },
+    {
+        "merged": "/home/dm47021/Launcher_Plus1/app/build/intermediates/res/merged/debug/layout/apps_customize_pane.xml",
+        "source": "/home/dm47021/Launcher_Plus1/app/src/main/res/layout/apps_customize_pane.xml"
+    },
+    {
+        "merged": "/home/dm47021/Launcher_Plus1/app/build/intermediates/res/merged/debug/layout/wallpaper_chooser_base.xml",
+        "source": "/home/dm47021/Launcher_Plus1/app/src/main/res/layout/wallpaper_chooser_base.xml"
+    },
+    {
+        "merged": "/home/dm47021/Launcher_Plus1/app/build/intermediates/res/merged/debug/layout/custom_workspace_cling.xml",
+        "source": "/home/dm47021/Launcher_Plus1/app/src/main/res/layout/custom_workspace_cling.xml"
+    },
+    {
+        "merged": "/home/dm47021/Launcher_Plus1/app/build/intermediates/res/merged/debug/layout/market_button.xml",
+        "source": "/home/dm47021/Launcher_Plus1/app/src/main/res/layout/market_button.xml"
+    },
+    {
+        "merged": "/home/dm47021/Launcher_Plus1/app/build/intermediates/res/merged/debug/layout/apps_customize_widget.xml",
+        "source": "/home/dm47021/Launcher_Plus1/app/src/main/res/layout/apps_customize_widget.xml"
+    }
+]

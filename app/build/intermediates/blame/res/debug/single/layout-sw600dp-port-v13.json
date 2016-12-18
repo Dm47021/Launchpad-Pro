@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/dm47021/Launcher_Plus1/app/build/intermediates/res/merged/debug/layout-sw600dp-port-v13/all_apps_cling.xml",
+        "source": "/home/dm47021/Launcher_Plus1/app/src/main/res/layout-sw600dp-port/all_apps_cling.xml"
+    },
+    {
+        "merged": "/home/dm47021/Launcher_Plus1/app/build/intermediates/res/merged/debug/layout-sw600dp-port-v13/folder_cling.xml",
+        "source": "/home/dm47021/Launcher_Plus1/app/src/main/res/layout-sw600dp-port/folder_cling.xml"
+    }
+]
